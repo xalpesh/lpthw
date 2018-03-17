@@ -1,7 +1,7 @@
 my_name = 'Kalpesh Patel'
-my_age = 33 #Correct Age
+my_age = 30 #Correct Age
 my_height = 71 #inches
-my_weight = 250 # lbs
+my_weight = 150 # lbs
 my_eyes = 'Balck'
 my_teeth = 'White' 
 my_hair = "Brown"
