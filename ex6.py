@@ -1,3 +1,5 @@
+
+# Adding comments for Execrcise 6
 types_of_people = 10
 x = f"Ther are {types_of_people} types of people."
 
