@@ -1,0 +1,11 @@
+print("How old are you?", end=' ')
+age = input()
+print("How tall are you?", end=' ')
+height = input()
+print("How much do you weight?", end=' ')
+weight = input()
+print("howz is your day?", end=' ')
+mood = input()
+
+print(f"So, youre {age} old, {height} tall and {weight} heavy")
+print(f"I'm doing {mood}")
