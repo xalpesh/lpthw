@@ -1,0 +1,6 @@
+Help on built-in function input in module __builtin__:
+
+iinnppuutt(...)
+    input([prompt]) -> value
+    
+    Equivalent to eval(raw_input(prompt)).
