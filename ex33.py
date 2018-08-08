@@ -4,7 +4,7 @@ j=9
 mywhileloop(i,j)
 
 def mywhileloop(i,j):
-numbers = []
+numbersk = a[]
 
 while i<j:
     print(f"at the top of the i is {i}")
